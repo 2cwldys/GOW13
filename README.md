@@ -1,6 +1,5 @@
-# World War 13
 <kbd>
- <img src="https://puu.sh/wFD0e/b3099eccb1.jpg">
+ <img src="https://github.com/2cwldys/GOW13/blob/master/gearsbannerred.png">
 </kbd>
 
 [![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
