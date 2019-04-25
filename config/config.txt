@@ -9,14 +9,10 @@ RESOURCE_WEBSITE nil
 SERVER_NAME Gears of War 13
 
 ## What features do you want to advertise on your hub message?
-HUB_FEATURES light-medium roleplay GOW13 server
+HUB_FEATURES  Light-Medium RP | Oh, I just picked up a sorry piece of shit.
 
 ## The main content of your hub message
-HUB_BODY <i>GOW13, SEASON, TIME_OF_DAY
-
-End of the world, baby. Wouldn't wanna be anywhere else.
-https://discord.gg/PgQz7as
-</i><br>
+HUB_BODY <i>GOW13, SEASON, TIME_OF_DAY</i><br>
 
 ## Use a link to a banner on your hub message? Comment out if not
 HUB_BANNER_URL <img src='http://tny.im/btn'>
